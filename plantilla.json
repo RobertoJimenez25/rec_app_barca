@@ -1,1 +1,178 @@
-json
+[
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 10,
+    "posicion": "Delantero",
+    "nacionalidad": "España",
+    "edad": 18,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/lamine.png"
+  },
+  {
+    "nombre": "Lewandowski",
+    "dorsal": 9,
+    "posicion": "Delantero",
+    "nacionalidad": "Polonia",
+    "edad": 37,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/Lewandowski.png"
+  },
+  {
+    "nombre": "Raphinha",
+    "dorsal": 11,
+    "posicion": "Delantero",
+    "nacionalidad": "Brasil",
+    "edad": 29,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/raphinha.png"
+  },
+  {
+    "nombre": "Roony Bardghji",
+    "dorsal": 19,
+    "posicion": "Delantero",
+    "nacionalidad": "Suecia",
+    "edad": 20,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/roony.png"
+  },
+  {
+    "nombre": "Ferran Torres",
+    "dorsal": 7,
+    "posicion": "Delantero",
+    "nacionalidad": "España",
+    "edad": 26,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/ferran.png"
+  },
+  {
+    "nombre": "Pedri",
+    "dorsal": 8,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 23,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/pedri.png"
+  },
+  {
+    "nombre": "Frenkie de Jong",
+    "dorsal": 21,
+    "posicion": "Medio",
+    "nacionalidad": "Países Bajos",
+    "edad": 28,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/frenkie.png"
+  },
+  {
+    "nombre": "Fermín López",
+    "dorsal": 16,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/fermin.png"
+  },
+  {
+    "nombre": "Gavi",
+    "dorsal": 6,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 21,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/gavi.png"
+  },
+  {
+    "nombre": "Dani Olmo",
+    "dorsal": 20,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/olmo.png"
+  },
+  {
+    "nombre": "Marc Bernal",
+    "dorsal": 22,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 18,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/bernal.png"
+  },
+  {
+    "nombre": "Marc Casadó",
+    "dorsal": 17,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/casado.png"
+  },
+  {
+    "nombre": "Pau Cubarsí",
+    "dorsal": 5,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 19,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/cubarsi.png"
+  },
+  {
+    "nombre": "Eric García",
+    "dorsal": 24,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 25,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/eric.png"
+  },
+  {
+    "nombre": "Jules Koundé",
+    "dorsal": 23,
+    "posicion": "Defensa",
+    "nacionalidad": "Francia",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/kounde.png"
+  },
+  {
+    "nombre": "Gerard Martín",
+    "dorsal": 18,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 24,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/martin.png"
+  },
+  {
+    "nombre": "João Cancelo",
+    "dorsal": 2,
+    "posicion": "Defensa",
+    "nacionalidad": "Portugal",
+    "edad": 31,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/cancelo.png"
+  },
+  {
+    "nombre": "Alejandro Balde",
+    "dorsal": 3,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/balde.png"
+  },
+  {
+    "nombre": "Ronald Araújo",
+    "dorsal": 4,
+    "posicion": "Defensa",
+    "nacionalidad": "Uruguay",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/araujo.png"
+  },
+  {
+    "nombre": "Christensen",
+    "dorsal": 15,
+    "posicion": "Defensa",
+    "nacionalidad": "Dinamarca",
+    "edad": 29,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/christensen.png"
+  },
+  {
+    "nombre": "Joan García",
+    "dorsal": 13,
+    "posicion": "Portero",
+    "nacionalidad": "España",
+    "edad": 24,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/joan.png"
+  },
+  {
+    "nombre": "Wojciech Szczęsny",
+    "dorsal": 25,
+    "posicion": "Portero",
+    "nacionalidad": "Polonia",
+    "edad": 35,
+    "imagenUrl": "https://raw.githubusercontent.com/RobertoJimenez25/rec_app_barca/main/szczesny.png"
+  }
+]
